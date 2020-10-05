@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"raptorstestdb.review_types"}],"uuid":"86e30ae3f8f5499981da845d0730e31e"}

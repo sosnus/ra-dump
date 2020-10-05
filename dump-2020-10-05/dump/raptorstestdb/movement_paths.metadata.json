@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"raptorstestdb.movement_paths"}],"uuid":"6e03d7bd74284a50835ec0e094a99a86"}

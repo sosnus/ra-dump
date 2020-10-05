@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"raptorstestdb.parking_types"}],"uuid":"6223392e09974e9e8e55d915a0573270"}

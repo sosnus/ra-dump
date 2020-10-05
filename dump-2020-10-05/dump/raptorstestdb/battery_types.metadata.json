@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"raptorstestdb.battery_types"}],"uuid":"c0a4aaf56a794bd4b9112dcdfe90aa11"}
